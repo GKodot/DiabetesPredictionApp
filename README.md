@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project is small personal work as an **Electrical & Computer Engineering student**.  
+This project is a personal work as an **Electrical & Computer Engineering student**.  
 It predicts the likelihood of diabetes based on patient health data using a **decision tree model (J48)** trained in **WEKA**, with a simple MATLAB GUI.
 
 It’s an educational project demonstrating:
@@ -31,7 +31,8 @@ It’s an educational project demonstrating:
 
 ## ⚙️ How it works
 
-- **Dataset:** Pima Indians Diabetes Dataset (CSV)
+- **Dataset:** Pima Indians Diabetes Dataset from adult women (CSV) link below
+- [link]: (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - **Algorithm:** J48 Decision Tree built in WEKA
 - **Prediction:** Uses glucose, BMI, age, pregnancies, pedigree function, blood pressure
 - **Output:** Predicts `Risk: Low` (No diabetes) or `Risk: High` (Diabetes)
@@ -46,11 +47,6 @@ It’s an educational project demonstrating:
 2. Open `diabetesPredictorApp.m` in MATLAB.
 3. Click **Run** — follow the prompts.
 4. The decision tree logic is in `predictDiabetes.m`.
-
-### 📦 2. Run the Windows EXE (no MATLAB needed)
-I’ve also compiled the app as a **standalone Windows installer**.
-👉 **[Download the EXE here](https://your-link.com)**  
-(*Note: Requires MATLAB Runtime, which is free.*)
 
 ---
 
