@@ -32,7 +32,7 @@ It’s an educational project demonstrating:
 ## ⚙️ How it works
 
 - **Dataset:** Pima Indians Diabetes Dataset from adult women (CSV) link below
-- [link]: (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [DATASET](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - **Algorithm:** J48 Decision Tree built in WEKA
 - **Prediction:** Uses glucose, BMI, age, pregnancies, pedigree function, blood pressure
 - **Output:** Predicts `Risk: Low` (No diabetes) or `Risk: High` (Diabetes)
